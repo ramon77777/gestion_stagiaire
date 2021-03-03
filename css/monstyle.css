@@ -1,0 +1,82 @@
+/*Site pour les couleurs :flatuicolors.com*/
+
+
+/* Debut de la page entière */
+
+.margetop{
+    
+    margin-top: 80px;
+    
+}
+
+h1{
+    font-size: 40px;
+    color:#2980b9 ;
+}
+
+/* Fin */
+
+/*Images de la page des stagiares*/
+.im{
+    
+    width: 50px;
+    height: 50px;
+}
+
+
+
+/*Debut de editer_pwd*/
+.editpwd-page h1, h2{
+    color: #2e6da4;
+}
+
+.editpwd-page h1{
+    font-size: 45px;
+}
+
+.editpwd-page h2{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.editpwd-page form{
+    width: 400px;
+    margin: auto;
+}
+
+.editpwd-page input{
+   margin-bottom: 20px;
+}
+
+.form-control{
+    position: relative ;
+}
+
+.show-old-pass,.show-new-pass{
+    position: absolute;
+    top: 0px;
+    right: -35px;
+}
+
+.input-container{
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.clickable{
+    cursor: pointer;
+}
+
+/*Fin*/
+
+/*Debut de la page login*/
+
+.place{
+    position:absolute;
+    top: 310px;
+    right: 90px;
+}
+
+/*Fin*/
+
+
